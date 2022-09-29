@@ -41,7 +41,7 @@ function index() {
                 <div className='card bg-[#444365] rounded-3xl mr-8'>
                   <div className='grid grid-cols-2 justify-between w-full py-10 px-10' >
                     <div className='flex gap-2 items-center justify-start'>
-                      <i className='bx bx-bitcoin bx-lg text-transparent bg-clip-text bg-gradient-to-br from-[#64a9c4] to-[#be6ac8]'></i>
+                      <i className='bx bxl-bitcoin bx-lg text-transparent bg-clip-text bg-gradient-to-br from-[#64a9c4] to-[#be6ac8]'></i>
                       <div>
                       <p className='text-sm font-medium text-gray-500'>USDT/WETH</p>
                       <h1 className='text-2xl font-semibold text-white'>Bitcoin</h1>
